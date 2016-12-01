@@ -26,6 +26,11 @@ h1 {
   padding-top: 80px;
 }
 
-#nav-mobile ul li a:hover {
+#mobile-demo ul li a:hover {
   background-color: #fff;
+}
+
+#sidenav-overlay {
+  z-index: 998;
+  margin-bottom: 0px;
 }
