@@ -4,16 +4,28 @@
   margin-top: 30px;
 }
 
-.hey .col:nth-of-type(3) {
+/*.hey .col:nth-of-type(3) {
  margin-bottom: 70px;
 }
 
 .hey .col:nth-of-type(4) {
  margin-bottom: 140px;
-}
+}*/
 
 h1 {
   text-align: center;
   width: auto;
+  background-color: #fff;
+}
+
+h1 {
+  padding-top: 100px;
+}
+
+#home {
+  padding-top: 80px;
+}
+
+#nav-mobile ul li a:hover {
   background-color: #fff;
 }
